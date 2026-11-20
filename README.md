@@ -8,6 +8,6 @@ Todos os direitos sobre as imagens pertencem aos seus autores e à Jambô Editor
 
 ## Pastas
 
-- `tokens/`: retratos originais (jpg).
+- `tokens/`: retratos originais (jpg). Os monstros dos andares 2 a 5 vêm das ilustrações de *Ameaças de Arton*, recortadas em quadrado.
 - `tokens-px/`: os mesmos retratos reduzidos a 48×48 px para o visual pixel dos menus.
 - `mapas/`: recortes pixelizados do mapa "O Reinado e Além" usados no mapa da run (`arton-retrato.png` no celular, `arton-paisagem.png` no PC).
